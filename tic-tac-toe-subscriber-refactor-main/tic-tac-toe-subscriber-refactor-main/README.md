@@ -1,4 +1,4 @@
-# Tic Tac Toe Subscriber Refactor
+# Tic Tac Toe Game
 
 **Did you know??**
 
